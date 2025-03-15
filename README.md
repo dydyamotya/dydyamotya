@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dydyamotya
 - 👀 I’m interested in chemistry, programming and everything
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently programming on Rust, Java, Python
 - 💞️ I’m looking to collaborate on some real project to get experience in programming
 - 📫 How to reach me: matderevenayv@yandex.ru
 
